@@ -27,9 +27,3 @@
 - .NET 6 SDK
 - SQL Server (local ou remoto)
 - Ferramenta de testes de API (ex.: Postman)
-
-## Instalação e Configuração
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/sistemadetarefas.git
